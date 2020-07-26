@@ -1,0 +1,38 @@
+﻿  Source.cpp
+d:\labs\os\lab5-3\lab5-3\source.cpp(56): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\labs\os\lab5-3\lab5-3\source.cpp(57): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\labs\os\lab5-3\lab5-3\source.cpp(60): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'unsigned int'
+d:\labs\os\lab5-3\lab5-3\source.cpp(60): warning C4302: 'type cast': truncation from 'LPVOID' to 'unsigned int'
+d:\labs\os\lab5-3\lab5-3\source.cpp(60): warning C4312: 'type cast': conversion from 'unsigned int' to 'LPVOID' of greater size
+d:\labs\os\lab5-3\lab5-3\source.cpp(69): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'unsigned int'
+d:\labs\os\lab5-3\lab5-3\source.cpp(69): warning C4302: 'type cast': truncation from 'LPVOID' to 'unsigned int'
+d:\labs\os\lab5-3\lab5-3\source.cpp(45): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+d:\labs\os\lab5-3\lab5-3\source.cpp(63): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+d:\labs\os\lab5-3\lab5-3\source.cpp(77): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+d:\labs\os\lab5-3\lab5-3\source.cpp(85): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+d:\labs\os\lab5-3\lab5-3\source.cpp(107): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+d:\labs\os\lab5-3\lab5-3\source.cpp(115): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+d:\labs\os\lab5-3\lab5-3\source.cpp(125): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+d:\labs\os\lab5-3\lab5-3\source.cpp(143): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+d:\labs\os\lab5-3\lab5-3\source.cpp(151): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+d:\labs\os\lab5-3\lab5-3\source.cpp(159): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+d:\labs\os\lab5-3\lab5-3\source.cpp(176): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+d:\labs\os\lab5-3\lab5-3\source.cpp(184): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+d:\labs\os\lab5-3\lab5-3\source.cpp(192): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+d:\labs\os\lab5-3\lab5-3\source.cpp(216): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  Lab5-3.vcxproj -> D:\Labs\OS\Lab5-3\x64\Debug\Lab5-3.exe
+  Lab5-3.vcxproj -> D:\Labs\OS\Lab5-3\x64\Debug\Lab5-3.pdb (Full PDB)
